@@ -1,7 +1,7 @@
-console.log('Executando main.js')
+console.log("Executando main.js");
 
 // BUSCAR TODAS AS BICICLETAS - querySelectorAll
-const bikes = document.querySelectorAll('.bike') // [bike1, bike2, bike3, ...]
+/* const bikes = document.querySelectorAll('.bike') // [bike1, bike2, bike3, ...]
 
 console.log('main.js::bikes')
 console.log(bikes)
@@ -13,7 +13,7 @@ bikes.forEach((bike) => {
     console.log(nomeBike)
     console.log(precoBike)
     console.log(imgBike)
-})
+}) */
 
 // bikes.forEach((bike) => {
 //     console.log('Bicicleta:')
