@@ -1,0 +1,6 @@
+.bloco {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border: 2px red solid;
+}
